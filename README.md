@@ -38,6 +38,6 @@ And to start up a [Docker](https://www.docker.com/) instance of [RabitMQ](https:
 
 The ESP8266WiFi library provides a wide collection of C++ methods (functions) and properties to configure and operate an ESP8266 module in station and / or soft access point mode.
 
--  Pubsub Client
+-  PubSub Client
 
 A client library for MQTT messaging. MQTT is a lightweight messaging protocol ideal for small devices. This library allows you to send and receive MQTT messages.
